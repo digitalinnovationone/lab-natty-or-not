@@ -38,9 +38,10 @@ Apresente os resultados do seu projeto
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos
+### Exemplos e Insigths
 
-TODO Criar alguns arquivos README com exemplos hipotéticos de conteúdos. Por exemplo:
-1. E-Book (2 páginas): [ChatGPT](https://chat.openai.com/) para roteirização/revisão, [Leonardo AI](https://leonardo.ai) para imagens e Libre Office para edição;
-1. Podcast (5 minutos): [ChatGPT](https://chat.openai.com/) para roteirização/revisão, [ElevenLabs](https://elevenlabs.io/) para sintetização de voz e Descript para edição e montagem do podcast;
-1. Vídeo (1 minuto): [ChatGPT](https://chat.openai.com/) para roteirização/revisão, [D-ID](https://www.d-id.com/) para sintetização de voz e geração do avatar virtual em vídeo;
+- [E-BOOK](/exemplos/E-BOOK.md)
+- [Podcast](/exemplos/PODCAST.md)
+- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
+## Links Interessantes
