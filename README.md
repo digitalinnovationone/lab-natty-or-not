@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando o Universo Digital 🌐
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Bem-vindo(a) ao Explorando o Universo Digital! 🚀🌐 Neste guia descontraído, vamos desbravar juntos o fascinante mundo da tecnologia. Este eBook e audio é seu passaporte para a era digital. Vamos explorar gadgets modernos, entender a inteligência artificial sem dramas e aprender a navegar com confiança na selva online. Prepare-se para uma jornada leve, informativa e cheia de dicas práticas. Vamos começar a explorar o universo da IA (Inteligência Artificial) com entusiasmo e curiosidade! 📱💡
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+[ChatGPT](https://chat.openai.com/)
+[Copilot](https://www.bing.com/)
+[leonardo.ai](https://leonardo.ai/)
+[elevenlabs.io](https://elevenlabs.io/)
+
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+A criação do "Explorando o Universo Digital" foi uma jornada empolgante e colaborativa. Como autora, comecei mergulhando nas nuances do vasto universo digital, explorando tópicos desde a evolução da internet até a ética digital com a [DIO.me]. Para criar o ebook, o conteúdo usei como ferramenta [chatGPT] e para gerar imagens usei [bing] e [leonardo.ai], formatação e criação do designer [canvas] e [libreOffice].
+Como forma resumida referente ao ebook, criei um áudio text-to-speech usando voz IA do [elevenlabs.io].   
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[eBook]([DesbravandoOsMistériosdaInteligênciaArtifical:UmGuiaDescontraídoParaAdultosCuriosos](MiniGuiaIA.pdf))
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[Aúdio](<audio src="ElevenLabs_2024-01-31T01_27_11_Freya_pre_s50_sb75_m1.mp3" controls title="ResumoDoLivro"></audio>) 
 
-### Exemplos e Insigths
+## 💭 Reflexão 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+ O eBook e o Áudio text-to-speech foi preparado para ser uma fonte de aprendizado prática, não está perfeito mas foi bem divertido porque descobrir que IA pode ser uma assistente e tanto, esta jornada de criação foi inspiradora, e espero que seja uma fonte valiosa de conhecimento e diversão para todos os exploradores digitais lá fora! 🚀
+ 
