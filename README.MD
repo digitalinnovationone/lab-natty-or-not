@@ -19,9 +19,7 @@ A criação do "Explorando o Universo Digital" foi uma jornada empolgante e cola
 Como forma resumida referente ao ebook, criei um áudio text-to-speech usando voz IA do [elevenlabs.io].   
 
 ## 🚀 Resultados
-[eBook]
-
-[Aúdio]
+eBook e Áudio 
 
 ## 💭 Reflexão 
  O eBook e o Áudio text-to-speech foi preparado para ser uma fonte de aprendizado prática, não está perfeito mas foi bem divertido porque descobrir que IA pode ser uma assistente e tanto, esta jornada de criação foi inspiradora, e espero que seja uma fonte valiosa de conhecimento e diversão para todos os exploradores digitais lá fora! 🚀
