@@ -32,7 +32,7 @@ As estruturas de dados são fundamentais para organizar e manipular informaçõe
 - Dicionários
 - Conjuntos
 
-### **Estruturas de Seleção**
+[**Estruturas de Seleção**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estruturas_Selecao.md#estruturas-de-sele%C3%A7%C3%A3o)
 
 As estruturas de seleção permitem que seu programa tome decisões com base em condições específicas.
 
@@ -41,7 +41,7 @@ As estruturas de seleção permitem que seu programa tome decisões com base em 
 - Declaração if-elif-else
 - Operadores de comparação
 
-### **Estruturas de Repetição**
+[**Estruturas de Repetição**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estruturas_Repeticao.md#estruturas-de-repeti%C3%A7%C3%A3o)
 
 A repetição é uma parte essencial da programação. Aqui, aprenderemos como usar estruturas de repetição para executar tarefas repetitivas.
 
@@ -50,7 +50,7 @@ A repetição é uma parte essencial da programação. Aqui, aprenderemos como u
 - Declarações break e continue
 - Loops aninhados
 
-### **Funções**
+[**Funções**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Funcoes.md#fun%C3%A7%C3%B5es)
 
 As funções permitem que você modularize seu código, tornando-o mais organizado e reutilizável.
 
@@ -60,7 +60,7 @@ As funções permitem que você modularize seu código, tornando-o mais organiza
 - Escopo de variáveis
 - Funções lambda
 
-### **Bibliotecas e Pacotes**
+[**Bibliotecas e Pacotes**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Modulos-Bibliotecas.md#bibliotecas-e-pacotes)
 
 Python é conhecido por sua vasta biblioteca padrão e pela grande comunidade de desenvolvedores que contribuem com pacotes externos.
 
@@ -68,7 +68,7 @@ Python é conhecido por sua vasta biblioteca padrão e pela grande comunidade de
 - Instalação de pacotes externos usando pip
 - Explorando bibliotecas populares (numpy, pandas, matplotlib)
 
-### **Programação Orientada a Objetos**
+[**Programação Orientada a Objetos**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/POO.md#programa%C3%A7%C3%A3o-orientada-a-objetos)
 
 A programação orientada a objetos é um paradigma de programação poderoso e amplamente utilizado. Neste capítulo, aprenderemos como usar classes e objetos em Python.
 
