@@ -77,6 +77,6 @@ A programação orientada a objetos é um paradigma de programação poderoso e 
 - Herança
 - Polimorfismo
 
-### **Encerramento**
+[**Encerramento**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Encerramento.md#encerramento)
 
 Espero que este eBook seja útil para você iniciar sua jornada na programação em Python. Lembre-se sempre de praticar bastante e explorar além do que é apresentado aqui. Boa sorte e divirta-se programando!
