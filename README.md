@@ -73,7 +73,7 @@ Usamos os seguinte promt para que o chatgpt criasse o ebook:
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[ebook](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Capa.md#python-para-iniciantes-tudo-que-voc%C3%AA-precisa-saber-para-dar-seus-primeiros-passos)
 
 ## 💭 Reflexão (Opcional)
 Usar as IAs para criar novos produtos e serviços tem sido uma experiencia enriquecedora, desde o bootcamp Fundamentos da IA no Azure eu tenho me surpreendido com o poder que a tecnologia nos proporciona, a partir de agora pretendo me especializar ainda mais no assunto.
