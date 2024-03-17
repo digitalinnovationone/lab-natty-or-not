@@ -73,3 +73,7 @@ print(quadrados)  # Saída: [1, 4, 9, 16, 25]
 ---
 
 Dominar as estruturas de repetição em Python é essencial para automatizar tarefas repetitivas e processar coleções de dados de forma eficiente. Nos próximos capítulos, exploraremos funções, bibliotecas e programação orientada a objetos em Python.
+
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estruturas_Repeticao.md#estruturas-de-repeti%C3%A7%C3%A3o>
+  <p align = "right">Próximo</p>
+</a>
