@@ -42,3 +42,7 @@ Este simples programa demonstra a sintaxe básica de Python. A função `print()
 ---
 
 Compreender os conceitos básicos da linguagem Python é o primeiro passo para se tornar um programador habilidoso. Nos próximos capítulos, iremos aprofundar esses conceitos e explorar mais sobre o que Python tem a oferecer.
+
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Variaveis_Operacoes_Matematicas.md#vari%C3%A1veis-e-opera%C3%A7%C3%B5es-matem%C3%A1ticas-b%C3%A1sicas>
+  <p align = "right">Próximo</p>
+</a>
