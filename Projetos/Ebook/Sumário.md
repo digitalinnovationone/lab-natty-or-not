@@ -3,7 +3,7 @@
 
 
 
-### **Introdução à Linguagem Python**
+[**Introdução à Linguagem Python**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Introdu%C3%A7%C3%A3o_ao_Python.md#introdu%C3%A7%C3%A3o-%C3%A0-linguagem-python)
 
 Neste capítulo, vamos abordar os conceitos básicos da linguagem Python, sua história, e por que é uma excelente escolha para iniciantes em programação.
 
@@ -13,7 +13,7 @@ Neste capítulo, vamos abordar os conceitos básicos da linguagem Python, sua hi
 - Ambientes de Desenvolvimento Integrado (IDEs)
 - Primeiro programa em Python: "Hello, World!"
 
-### **Variáveis e Operações Matemáticas Básicas**
+[**Variáveis e Operações Matemáticas Básicas**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Variaveis_Operacoes_Matematicas.md#vari%C3%A1veis-e-opera%C3%A7%C3%B5es-matem%C3%A1ticas-b%C3%A1sicas)
 
 Aqui, exploraremos como usar variáveis para armazenar dados e realizar operações matemáticas simples.
 
@@ -23,7 +23,7 @@ Aqui, exploraremos como usar variáveis para armazenar dados e realizar operaç�
 - Operadores de atribuição
 - Conversão de tipos
 
-### **Estruturas de Dados**
+[**Estruturas de Dados**](https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estrutura_de_Dados.md#estruturas-de-dados)
 
 As estruturas de dados são fundamentais para organizar e manipular informações. Neste capítulo, vamos discutir algumas das estruturas de dados mais comuns em Python.
 
