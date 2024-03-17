@@ -122,3 +122,7 @@ numero_float = float(numero_inteiro)  # Resultado: 3.0
 ---
 
 Compreender como trabalhar com variáveis e operações matemáticas básicas em Python é fundamental para o desenvolvimento de programas mais complexos. Nos próximos capítulos, exploraremos estruturas de dados, controle de fluxo e muito mais.
+
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estrutura_de_Dados.md#estruturas-de-dados>
+  <p align = "right">Próximo</p>
+</a>
