@@ -126,3 +126,7 @@ diferenca = conjunto1 - conjunto2  # Resultado: {1, 2}
 ---
 
 Entender como trabalhar com listas, tuplas, dicionários e conjuntos em Python é crucial para o desenvolvimento eficaz de programas. Nos próximos capítulos, exploraremos estruturas de controle de fluxo e funções em Python.
+
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estruturas_Selecao.md#estruturas-de-sele%C3%A7%C3%A3o>
+  <p align = "right">Próximo</p>
+</a>
