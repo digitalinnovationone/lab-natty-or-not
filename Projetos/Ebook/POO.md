@@ -118,3 +118,7 @@ gato.fazer_som()      # Saída: Miau
 ---
 
 A Programação Orientada a Objetos é um paradigma poderoso que permite criar programas mais estruturados, reutilizáveis e fáceis de manter. Ao dominar os conceitos de POO em Python, você estará bem equipado para enfrentar uma variedade de desafios de programação de forma mais eficaz.
+
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Encerramento.md#encerramento>
+  <p align = "right">Próximo</p>
+</a>
