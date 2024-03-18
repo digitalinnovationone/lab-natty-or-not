@@ -149,6 +149,6 @@ print(round(pi, 2))  # Saída: 3.14
 
 Essas são apenas algumas das principais funções integradas em Python que são amplamente utilizadas em muitos programas. Existem muitas outras funções integradas disponíveis, cada uma com seu propósito específico. Ao longo de sua jornada em Python, você encontrará e aprenderá a usar muitas dessas funções para realizar uma variedade de tarefas.
 
-<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Funcoes.md#fun%C3%A7%C3%B5es>
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Modulos-Bibliotecas.md#bibliotecas-e-pacotes>
   <p align = "right">Próximo</p>
 </a>
