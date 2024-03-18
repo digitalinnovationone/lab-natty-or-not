@@ -79,6 +79,6 @@ print(status)
 
 Dominar as estruturas de seleção em Python é fundamental para criar programas que tomam decisões dinâmicas com base em diferentes condições. Nos próximos capítulos, exploraremos estruturas de repetição e funções em Python.
 
-<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estruturas_Selecao.md#estruturas-de-sele%C3%A7%C3%A3o>
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Estruturas_Repeticao.md#estruturas-de-repeti%C3%A7%C3%A3o>
   <p align = "right">Próximo</p>
 </a>
