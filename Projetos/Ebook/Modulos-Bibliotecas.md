@@ -61,3 +61,7 @@ As bibliotecas e pacotes em Python desempenham um papel crucial no ecossistema d
 ---
 
 Explorar e aprender a usar bibliotecas e pacotes em Python é essencial para se tornar um programador mais eficiente e versátil. Ao longo de sua jornada de aprendizado em Python, você descobrirá e experimentará uma variedade de bibliotecas e pacotes úteis para seus projetos.
+
+<a href = https://github.com/Victor-Ribeiro-Acosta/lab-natty-or-not/blob/feat/community/VictorAcosta/Projetos/Ebook/Modulos-Bibliotecas.md#bibliotecas-e-pacotes>
+  <p align = "right">Próximo</p>
+</a>
