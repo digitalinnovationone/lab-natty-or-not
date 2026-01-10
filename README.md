@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📘 IA Generativa: Criatividade Artificial ou Inteligência Humana Amplificada?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um eBook educativo sobre Inteligência Artificial Generativa, explorando seus conceitos, funcionamento, aplicações reais e reflexões éticas. Inspirado no desafio **Natty or Not** da DIO, o material questiona até que ponto a criatividade gerada por IA é realmente “natural” ou apenas uma amplificação da inteligência humana.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (IA Generativa de Texto)
+- GitHub (Versionamento e Portfólio)
+- Markdown
+- Ferramentas de edição de texto (para conversão em PDF)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi desenvolvido a partir de estudos sobre IA Generativa, combinando conhecimento técnico, reflexão crítica e criatividade humana. A IA foi utilizada como ferramenta de apoio na estruturação e refinamento do texto, mantendo o direcionamento, curadoria e visão estratégica humanas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Criação de um eBook completo sobre IA Generativa
+- Conteúdo pronto para publicação em PDF ou GitHub
+- Material aplicável para portfólio profissional e educacional
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar algo “natty” com IA exige equilíbrio. A tecnologia acelera e amplia possibilidades, mas o diferencial continua sendo humano: pensamento crítico, ética e intenção. A IA não substitui o criador — ela potencializa.
