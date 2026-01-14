@@ -1,51 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# ☁️🤖 Natty or Not? – Cloud Edition
 
-## 🚀 Introdução
+Projeto desenvolvido como parte do desafio **Lab Natty or Not** da Digital Innovation One (DIO), com foco em **Cloud Computing e Inteligência Artificial**.
 
-> Woooow! Look at this 👀
+O objetivo é apresentar, de forma interativa, conceitos relacionados à nuvem e IA, desafiando o usuário a identificar se uma afirmação foi gerada por IA ou se é um conceito real da área de tecnologia.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+---
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Objetivo do Projeto
 
-### Objetivos
+- Consolidar conhecimentos básicos de **Cloud Computing**
+- Criar um projeto **100% estático**, ideal para ambientes em nuvem
+- Demonstrar organização de código, lógica e documentação
+- Servir como projeto de **portfólio para Cloud / Infra Júnior**
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+---
 
-### Template
+## 🕹️ Como funciona
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+1. O usuário recebe uma afirmação sobre IA
+2. Deve escolher entre:
+   - 🤖 IA
+   - 🧠 Humano
+3. O sistema valida a resposta e soma a pontuação
+4. Ao final, é exibido o resultado total
 
-## 📒 Descrição
-Breve descrição do seu projeto
+---
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## 🛠️ Tecnologias Utilizadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- **HTML5** – Estrutura da aplicação
+- **CSS3** – Estilização
+- **JavaScript (Vanilla)** – Lógica do jogo
+- **Git & GitHub** – Versionamento
+- **Cloud Ready** – Projeto preparado para deploy em:
+  - AWS S3 (Static Website Hosting)
+  - Azure Blob Storage
+  - GitHub Pages
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
