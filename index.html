@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Natty or Not?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🤖 Natty or Not?</h1>
+    <p id="question">Carregando...</p>
+
+    <div class="buttons">
+      <button onclick="answer('IA')">🤖 IA</button>
+      <button onclick="answer('Humano')">🧠 Humano</button>
+    </div>
+
+    <p id="feedback"></p>
+    <p id="score">Pontuação: 0</p>
+
+    <button class="next" onclick="nextQuestion()">Próxima</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
