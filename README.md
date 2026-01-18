@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🌪️ Podcast: Dominando Orquestração com Airflow - Natty or Not?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto utiliza IAs Generativas para transformar documentações técnicas áridas e vídeos de treinamento sobre **Apache Airflow** em um conteúdo de áudio dinâmico e extremamente realista (estilo Podcast). O objetivo é demonstrar como IAs podem acelerar o consumo de conteúdo técnico complexo para Engenharia de Dados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **Google NotebookLM:** Ferramenta principal. Foi utilizada para ingerir o material base (Guia Completo de Airflow + Vídeo Aula) e gerar o "Deep Dive Audio Overview".
+* **ChatGPT:** Utilizado para estruturar o resumo do README e insights sobre o impacto do Airflow na Engenharia de Dados.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1.  **Curadoria (Humana):** Selecionei meu material de estudo pessoal sobre Airflow (PDFs de arquitetura, DAGs, Operators e um vídeo de aula).
+2.  **Ingestão (NotebookLM):** Carreguei todo o acervo no Google NotebookLM, criando uma base de conhecimento unificada.
+3.  **Geração "Natty":** Utilizei o recurso de *Audio Overview*. A IA analisou os conceitos de DAGs, Schedulers e Executors e criou um diálogo natural entre dois "hosts" virtuais que debatem as melhores práticas e armadilhas comuns do Airflow.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um episódio de podcast de cerca de 8 minutos, em inglês fluente (nativo da ferramenta), onde os apresentadores explicam com clareza surpreendente a diferença entre *Tasks* e *Operators*, e a importância do *Backfill*. A entonação, as pausas para respiração e a química entre as vozes tornam quase impossível distinguir de uma gravação humana real.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[LINK PARA O SEU ÁUDIO AQUI - Pode ser Google Drive ou o próprio arquivo no repo]
