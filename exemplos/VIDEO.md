@@ -1,20 +1,37 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# 🎥 Vídeo: Transferência de Arquivos por Gestos com IA (Huawei / HarmonyOS)
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo de 37 segundos apresenta uma visão rápida e envolvente sobre o potencial da tecnologia de **Transferência de Arquivos por Gestos com IA**, integrada ao HarmonyOS da Huawei. A proposta é demonstrar, de forma visual e futurista, como a interação humano-máquina está evoluindo com o uso de inteligência artificial.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- IA Generativa **HeyGen** para criação de avatar virtual, narração e geração do vídeo  
+  🔗 https://app.heygen.com/home
+
+---
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Todo o processo foi realizado dentro da plataforma HeyGen.  
+A ferramenta foi responsável por:
+
+- Criação do avatar virtual  
+- Síntese de voz por IA  
+- Geração automática do roteiro  
+- Produção final do vídeo  
+
+Isso permitiu desenvolver o projeto de forma ágil, explorando recursos visuais e narrativos com estética futurista.
+
+---
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O resultado é um vídeo curto, dinâmico e informativo, que apresenta uma tecnologia emergente de forma acessível e impactante, destacando o potencial das IAs Generativas na criação de conteúdos audiovisuais.
 
-[LINK PARA O VÍDEO AQUI]()
+🎬 Assista no YouTube:  
+https://youtu.be/x4OJgj26_Jk
+
+---
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Este projeto foi uma experiência enriquecedora na criação de storytelling visual com IA. Utilizar ferramentas generativas para produzir um vídeo completo — do roteiro à apresentação — evidenciou como essas tecnologias estão transformando a maneira de comunicar ideias e inovações.
+
