@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Landing page para divulgação de serviços com IA 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei uma landing page para divulgação de prestação de serviços com IA da minha conta no instagram. Nela é possível verificar um visual tecnológico, com acesso para contato pelo Whatsapp ou Instagram. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT - Utilizado para auxilio na engenharia de prompt e boas práticas na formulação do prompt
+- Lovable - Utilizado como principal ferramenta para desenvolvimento front e back da página e demais funcionalidades.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o chatGPT para formulação do prompt e orquestração da persona que seria o objetivo da criação da landing page e logo após submeti o prompt a IA do Lovable que montou toda estrutura e código da página.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma landing page otimizada e estruturada pronta para ser utilizada pelo usuário.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+link da landing page: https://preview--gabe-ia.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoibW9hYzdDV0FJRlFRRlhrcE1UMmpGTlpSaXZmMiIsInByb2plY3RfaWQiOiI3YTI3M2FjYS1jM2E5LTQxNzQtOTJjNy1hNTM5ODE0MTM4YTYiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjdhMjczYWNhLWMzYTktNDE3NC05MmM3LWE1Mzk4MTQxMzhhNiIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzQyOTU4NjQsIm5iZiI6MTc3MzY5MTA2NCwiaWF0IjoxNzczNjkxMDY0fQ.Cq5WMMvw9rn9wzSeDAddM3EpYmqRuKVdKUIzbPLB-_Q3o0i7_e6QH14_4KsDxjoSlqr7eOsc6oakBPx260QH8qLc-rwRoxeK_i-POioc1d4BPWNMGwK2kyVnF-TE-YVBTDmaylD0WhWOJId54XnXaq1xlWKwIgPisEdRFK7gH3ge4qZSyM2A6o1BsA1NFUFl4PGoQRwpWkQYuZACP0KmpyE-5WiUck53f1VlaFf8Q7mTR3nJNkl_Ex51ORTst-GpSUMphN8bKlwAAbG-J5-ZVtGz57jncKYiE5G-fSdF_NrzyNw4X1aoIslvmEGcee17ZNfEOL_QaLCYnp3d7hlBFLvlJgiVwuf2ru1SNkkR99htcVg2nSx6V9vO0yWSWJ1nidalFzhIIYn7ULx0EuMLsPZwbP64UGmPe7Q20uRxJCy7gSLJCor0SzcuMwJh4AO_2CLZ6vJT-202V0lnmp3DMQRuWph6dQ7zfycsZXUQbOpTiMhWQVDfiPl_L9k4x96GnRHwBgtPVJzjXTKXfugpNW60Cn-tPS1M-59xtx4_sIMZbmtTr-Slu22EFWhdWFYrn9n9stG0UKvS4w7yQBMTOSXW3zT94svsQuT9mi26Lbr3x0aWO8FHu63lRgnGoJDkJXLjNP34X9YJByhd_oYiNcLHR6AbtLEzxTWAKtv1I9I
