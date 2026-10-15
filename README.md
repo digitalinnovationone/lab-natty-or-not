@@ -1,51 +1,67 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 💪 Natty or Not? O Guia Definitivo para Reconhecer Conteúdo de IA 🤖
 
-## 🚀 Introdução
+<div align="center">
 
-> Woooow! Look at this 👀
+![Capa do e-book](ebook/imagens/capa.webp)
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+</div>
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Inspirado na hype **"Natty or Not"** do fisiculturismo, este projeto é um **e-book de 5 capítulos** que usa a famosa pergunta *"esse shape é natural?"* como metáfora para um desafio muito atual: **como saber se uma imagem, texto, áudio ou vídeo é real ou foi gerado por IA?**
+
+O e-book explica de forma leve e didática o que são as IAs Generativas, traz um **checklist de sinais de "fake natty"**, um **quiz interativo** e boas práticas para usar IA com ética — tudo produzido, assumidamente, com a ajuda de IAs Generativas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa **[Claude](https://claude.ai)** para pesquisa, estruturação, roteirização e revisão do texto;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** / **[DALL·E](https://openai.com/dall-e-3)** para criar as imagens hiper-realistas do e-book;
+- **Markdown** + **[GitHub](https://github.com)** para escrita, versionamento e publicação;
+- **[Canva](https://www.canva.com)** / **LibreOffice** (opcional) para diagramação e exportação em PDF.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. **Ideação:** escolhi o tema "Natty or Not com IA" para conectar a hype do fisiculturismo a um problema real — deepfakes, golpes com voz clonada e desinformação.
+2. **Roteiro com IA de texto:** usei o Claude para montar a estrutura dos capítulos, gerar o checklist de sinais e o quiz, sempre com prompts detalhados (contexto, tarefa, formato e restrições).
+3. **Curadoria e revisão humana:** revisei o conteúdo, ajustei o tom com analogias de academia e conferi as informações técnicas e referências (C2PA, SynthID, ferramentas de checagem).
+4. **Imagens com IA:** criei prompts em inglês para cada capítulo, buscando um visual fotorrealista e editorial, e gerei as imagens no Leonardo AI / DALL·E.
+5. **Montagem:** organizei tudo em Markdown no GitHub (com sumário, tabelas e quiz com respostas ocultas).
+
+📄 Todos os prompts de texto e imagem estão documentados em [`ebook/PROMPTS.md`](ebook/PROMPTS.md).
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+📖 **[Leia o e-book completo aqui → Natty or Not? O Guia Definitivo para Reconhecer Conteúdo Gerado por IA](ebook/NATTY-OR-NOT-IA.md)**
 
-### Exemplos e Insigths
+O que você encontra no e-book:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+| Capítulo | Conteúdo |
+|---|---|
+| 1 — Natty or Not? | A origem da hype e a analogia com a IA |
+| 2 — O "shape" das IAs Generativas | Tipos de IA (texto, imagem, áudio, vídeo), como funcionam e dicas de prompt |
+| 3 — Sinais de "Fake Natty" | Checklist prático para identificar conteúdo gerado por IA |
+| 4 — Quiz: Natty or Not? | 6 situações do cotidiano para testar o olho clínico |
+| 5 — Suplemento, não substituto | IA com ética e transparência |
 
-## Links Interessantes
+### 🖼️ Galeria (imagens geradas por IA)
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+| | |
+|:---:|:---:|
+| ![Natural vs. sintético](ebook/imagens/cap01.webp) | ![Jurados Natty or Not](ebook/imagens/cap04.webp) |
+| *Cap. 1 — Natty or Not?* | *Cap. 4 — Quiz* |
+| ![Whey e chip de IA](ebook/imagens/cap05.webp) | ![Humano e robô](ebook/imagens/conclusao.webp) |
+| *Cap. 5 — Suplemento, não substituto* | *Conclusão* |
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+
+Criar algo "natty" com IA é, por definição, um paradoxo: quanto mais realista fica o resultado, mais importante se torna **ser transparente** sobre como ele foi feito. Durante o projeto, percebi que a IA acelera muito a produção — gera estrutura, ideias e imagens em minutos —, mas o "treino" continua sendo humano: escolher o tema, revisar fatos, cortar exageros e dar personalidade ao conteúdo.
+
+Assim como no fisiculturismo, usar suplementos não é o problema; **esconder** é. Por isso este e-book é assumidamente **"Not Natty"** — e tem orgulho disso. 😉💪
+
+---
+
+<div align="center">
+
+Projeto desenvolvido para o Lab **[Natty or Not](https://github.com/digitalinnovationone/lab-natty-or-not)** da [DIO](https://www.dio.me) · **#LabDIONattyOrNot**
+
+</div>
